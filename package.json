@@ -1,0 +1,13 @@
+{
+  "name": "YADict",
+  "version": "0.1.0",
+  "description": "Script that translates single words from linguee",
+  "main": "index.js",
+  "author": "gmartin3z",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.1",
+    "prompt": "^1.1.0"
+  }
+}
